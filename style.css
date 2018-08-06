@@ -1,14 +1,14 @@
 body {
-background: #ffcccc;
+background: #FFFFFF;
 text-align: center;
-font-family: Avenir;
+font-family: Lulo Clean;
 font-size:24px;
 }
 
 h1 {
-border-style: ridge;
-border-width: 20px ;
-border-color: #85CAFF;
+border-width: 10px;
+border-style: double;
+border-color: rgba(0,0,0,0.41);
 }
 
 
