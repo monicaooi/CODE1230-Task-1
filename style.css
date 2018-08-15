@@ -2,7 +2,7 @@ body {
 background: #FFFFFF;
 text-align: center;
 font-family: Baskerville;
-font-size:24px;
+font-size:12px;
 }
 
 #myTopNav {
@@ -12,11 +12,7 @@ font-size:24px;
     padding:5px;
 }
 
-h1 {
-border-width: 10px;
-border-style: double;
-border-color: rgba(0,0,0,0.41);
-}
+
 
 img {
     max-width: 100%;
