@@ -1,10 +1,5 @@
 <head>
-h1{
-color:white；
-text-align:center;
-font-family: Baskerville;
-font-size:30px;
-}
+
 
 </head>
 body {
@@ -12,6 +7,12 @@ background: #FFFFFF;
 text-align: center;
 font-family: Baskerville;
 font-size:18px;
+}
+h1{
+color:white；
+text-align:center;
+font-family: Baskerville;
+font-size:30px;
 }
 
 #myTopNav {
