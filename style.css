@@ -1,6 +1,6 @@
 
 
-body {
+.body {
 background: #FFFFFF;
 text-align: center;
 font-family: Garamond;
@@ -13,14 +13,14 @@ text-align: justify;
     text-align:center;
     padding:5px;
 }
-img {
+.img {
     max-width: 150%;
     max-height: 150%;
      margin-left: 50%;
 	    margin-right: 50%;
 }
 
-center {
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -31,4 +31,4 @@ center {
     width:100%;
     height:40%;
     background-size:cover;
-}
+} 
