@@ -27,10 +27,8 @@ text-align: justify;
     width: 50%;
 }
 
-h1 {color: #FFFFFF;}
-
-.placeholder {
-    display: inline-block;
-    vertical-align: middle;
+h1 {color: #FFFFFF;
+top：50%
 }
+
 
