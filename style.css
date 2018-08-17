@@ -26,12 +26,6 @@ text-align: justify;
     margin-right: auto;
     width: 50%;
 }
-.picLUp{
-    background:url(https://github.com/monicaooi/CODE1230-Task-1/blob/master/UTSP_image01_Gall_Naumann.jpg) no-repeat;
-    width:100%;
-    height:40%;
-    background-size:cover;
-} 
-.h1{font color:white;
-    text-align:center;
-}
+
+h1 {color: #FFFFFF;}
+
